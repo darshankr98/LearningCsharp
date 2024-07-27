@@ -1,0 +1,14 @@
+d:\Programming Codes 2024\C#\LearningLanguage\bin\Debug\net8.0\LearningLanguage.exe
+d:\Programming Codes 2024\C#\LearningLanguage\bin\Debug\net8.0\LearningLanguage.deps.json
+d:\Programming Codes 2024\C#\LearningLanguage\bin\Debug\net8.0\LearningLanguage.runtimeconfig.json
+d:\Programming Codes 2024\C#\LearningLanguage\bin\Debug\net8.0\LearningLanguage.dll
+d:\Programming Codes 2024\C#\LearningLanguage\bin\Debug\net8.0\LearningLanguage.pdb
+d:\Programming Codes 2024\C#\LearningLanguage\obj\Debug\net8.0\LearningLanguage.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programming Codes 2024\C#\LearningLanguage\obj\Debug\net8.0\LearningLanguage.AssemblyInfoInputs.cache
+d:\Programming Codes 2024\C#\LearningLanguage\obj\Debug\net8.0\LearningLanguage.AssemblyInfo.cs
+d:\Programming Codes 2024\C#\LearningLanguage\obj\Debug\net8.0\LearningLanguage.csproj.CoreCompileInputs.cache
+d:\Programming Codes 2024\C#\LearningLanguage\obj\Debug\net8.0\LearningLanguage.dll
+d:\Programming Codes 2024\C#\LearningLanguage\obj\Debug\net8.0\refint\LearningLanguage.dll
+d:\Programming Codes 2024\C#\LearningLanguage\obj\Debug\net8.0\LearningLanguage.pdb
+d:\Programming Codes 2024\C#\LearningLanguage\obj\Debug\net8.0\LearningLanguage.genruntimeconfig.cache
+d:\Programming Codes 2024\C#\LearningLanguage\obj\Debug\net8.0\ref\LearningLanguage.dll
