@@ -1,5 +1,6 @@
 using System;
 
+
 class GenericTest
 {
     public static void Main()
